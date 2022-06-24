@@ -6,5 +6,3 @@ Lien vers l'application :
 
 Lien vers l'éditeur :
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JLPruvost/Appli_Lieux_de_stages/HEAD)
-
-
